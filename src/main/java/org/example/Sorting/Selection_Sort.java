@@ -3,6 +3,9 @@ package org.example.Sorting;
 //https://www.programiz.com/dsa/selection-sort
 //https://visualgo.net/en/sorting
 
+//Time Complexity 	O(n2)
+//Space Complexity	O(1)
+
 public class Selection_Sort {
     public static void main(String[] args) {
         int[] arr = {64, 25, 12, 22, 11};
